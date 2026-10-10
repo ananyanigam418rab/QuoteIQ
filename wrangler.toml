@@ -1,7 +1,0 @@
-name = "rudco-quoteiq-api"
-main = "src/index.ts"
-compatibility_date = "2026-09-01"
-
-[vars]
-ALLOWED_ORIGIN = "https://YOUR-PUBLISHED-APP.ninoo.app"
-PRISMTRACE_HOST = "https://prism.blockconvey.com"
