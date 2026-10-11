@@ -1,6 +1,10 @@
 # QuoteIQ — RudCo RFQ Intelligence
 
-**Link to App:** [https://p-138f41dfd63da9ac.preview.ninoo.app/](https://p-138f41dfd63da9ac.preview.ninoo.app/)
+**Link to App:** 
+
+https://rudco-quoteiq-ninoo-2dfd.ninoo.app/
+
+[https://p-138f41dfd63da9ac.preview.ninoo.app/](https://p-138f41dfd63da9ac.preview.ninoo.app/)
 
 **Track 2: RFQ to Quote** · A procurement copilot that converts messy industrial requests into defensible, evidence-backed quote drafts and buyer clarifications.
 
